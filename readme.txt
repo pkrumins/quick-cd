@@ -17,7 +17,7 @@ After that, bind a keystroke to bring up the list quickly,
 
     bind "\C-[d": "qcd\n"
 
-Now each time you git Alt-d (or Esc-d), quick cd will pop up a list of most
+Now each time you hit Alt-d (or Esc-d), quick cd will pop up a list of most
 frequently used directories.
 
 Now if you can use arrow keys to navigate the list, or type a pattern to find
